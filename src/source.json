@@ -1,0 +1,2495 @@
+{
+  "url": {
+    "S": "/annunci-immobili/appartamenti-napoli-16156"
+  },
+  "type": {
+    "S": "Advertisement"
+  },
+  "advertisementCode": {
+    "S": "16156"
+  },
+  "breadcrumbs": {
+    "L": [
+      {
+        "M": {
+          "url": {
+            "S": "/"
+          },
+          "title": {
+            "S": "Quimmo"
+          }
+        }
+      },
+      {
+        "M": {
+          "url": {
+            "S": "/vendita-immobili/case/appartamenti/campania"
+          },
+          "title": {
+            "S": "Campania"
+          }
+        }
+      },
+      {
+        "M": {
+          "url": {
+            "S": "/vendita-immobili/case/appartamenti/napoli-provincia"
+          },
+          "title": {
+            "S": "Provincia di Napoli"
+          }
+        }
+      },
+      {
+        "M": {
+          "url": {
+            "S": "/vendita-immobili/case/appartamenti/napoli"
+          },
+          "title": {
+            "S": "Napoli"
+          }
+        }
+      }
+    ]
+  },
+  "content": {
+    "M": {
+      "advertisementCode": {
+        "S": "16156"
+      },
+      "compendiumType": {
+        "S": "IMMOBILIARE"
+      },
+      "experiment": {
+        "M": {
+          "amounts": {
+            "M": {
+              "currency": {
+                "S": "EUR"
+              },
+              "deposit": {
+                "N": "0"
+              },
+              "minimumOffer": {
+                "N": "0"
+              },
+              "minimumRaise": {
+                "N": "0"
+              },
+              "startPrice": {
+                "N": "679050"
+              }
+            }
+          },
+          "endDocumentsPresentationAt": {
+            "S": "2022-06-13T10:00:00.000Z"
+          },
+          "endRaisesPhaseAt": {
+            "S": "2022-06-14T09:00:00.000Z"
+          },
+          "experimentNumber": {
+            "N": "1"
+          },
+          "id": {
+            "S": "df960aa8-aba3-4c43-9e49-43f8f865db2b"
+          },
+          "PVPAdvertisementId": {
+            "S": "1608865"
+          },
+          "saleDocuments": {
+            "L": [
+              {
+                "M": {
+                  "url": {
+                    "S": "https://s3-eu-west-1.amazonaws.com/test-docs.realestatediscount/auctions/16156/pdf/it_IT/avviso-di-vendita.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "DISCIPLINARE_DI_GARA"
+                  },
+                  "title": {
+                    "S": "Disciplinare di vendita"
+                  }
+                }
+              }
+            ]
+          },
+          "startRaisesPhaseAt": {
+            "S": "2022-06-14T09:00:00.000Z"
+          }
+        }
+      },
+      "lot": {
+        "M": {
+          "amounts": {
+            "M": {
+              "currency": {
+                "S": "EUR"
+              },
+              "displayedPrice": {
+                "N": "679050"
+              },
+              "displayedPriceLabel": {
+                "S": "startPrice"
+              },
+              "label": {
+                "S": "A partire da"
+              },
+              "labelPriceType": {
+                "S": "startPrice"
+              }
+            }
+          },
+          "attachments": {
+            "L": [
+              {
+                "M": {
+                  "url": {
+                    "S": "https://s3-eu-west-1.amazonaws.com/test-docs.realestatediscount/auctions/16156/pdf/it_IT/Perizia.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "PERIZIA_ESTIMATIVA"
+                  },
+                  "title": {
+                    "S": "Perizia Estimativa"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "https://s3-eu-west-1.amazonaws.com/test-docs.realestatediscount/auctions/16156/pdf/it_IT/Ordinanza+di+delega.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "DOCUMENTAZIONE_EDILIZIA_URBANISTICA"
+                  },
+                  "title": {
+                    "S": "Documentazione Edilizia Urbanistica"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "https://s3-eu-west-1.amazonaws.com/test-docs.realestatediscount/auctions/16156/pdf/it_IT/Visura+e+planimetria.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "DOCUMENTAZIONE_AGGIUNTIVA"
+                  },
+                  "title": {
+                    "S": "Documentazione Aggiuntiva"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "https://pvp.giustizia.it/pvp-resources/cms/documents/2022/20220322/3ecd09e35298d3a98020d01064613387.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "DOCUMENTAZIONE_AGGIUNTIVA"
+                  },
+                  "title": {
+                    "S": "Documentazione Aggiuntiva"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "https://pvp.giustizia.it/pvp-resources/cms/documents/2022/20220322/64c909463ac1714f5e927676a090b594.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "DOCUMENTAZIONE_AGGIUNTIVA"
+                  },
+                  "title": {
+                    "S": "Documentazione Aggiuntiva"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "https://pvp.giustizia.it/pvp-resources/cms/documents/2022/20220322/e4cc59186c9ffc429dc84ec671085ce1.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "DOCUMENTAZIONE_AGGIUNTIVA"
+                  },
+                  "title": {
+                    "S": "Documentazione Aggiuntiva"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "https://pvp.giustizia.it/pvp-resources/cms/documents/2022/20220322/1b842fa0e3548ed44e7833a3e6a3d2ad.pdf"
+                  },
+                  "attachmentType": {
+                    "S": "DOCUMENTAZIONE_AGGIUNTIVA"
+                  },
+                  "title": {
+                    "S": "Documentazione Aggiuntiva"
+                  }
+                }
+              }
+            ]
+          },
+          "category": {
+            "M": {
+              "id": {
+                "S": "096e31ce-14eb-4b02-a04b-7535028434cc"
+              },
+              "name": {
+                "S": "Appartamenti"
+              }
+            }
+          },
+          "coordinates": {
+            "M": {
+              "lat": {
+                "N": "40.8436033"
+              },
+              "lng": {
+                "N": "14.2314216"
+              }
+            }
+          },
+          "customerType": {
+            "S": "EXTRAGIUDIZIARIO"
+          },
+          "description": {
+            "S": "Tribunale di Napoli<br>Esecuzione immobiliare Rge 736/2017<br><br>Proposta di vendita di: <br>Appartamento sito a Napoli (NA), in Piazza Vanvitelli n5. L’immobile posto al piano primo di un fabbricato di sei piani fuori terra, con servizio di portierato e ascensore, è un appartamento composto da quattro vani, di cui due soppalcati, oltre a una cucina e tre bagni.<br><br>Superficie commerciale: 162 mq <br><br>Piena proprietà di:<br>(CF): Foglio 15 - Particella 157 Subalterno 24 Categoria A2 <br><br>Per maggiori informazioni contattare il nostro Referente<br>"
+          },
+          "features": {
+            "L": [
+              {
+                "M": {
+                  "type": {
+                    "S": "area"
+                  },
+                  "formattedValue": {
+                    "S": "162"
+                  },
+                  "headerLabel": {
+                    "S": ""
+                  },
+                  "icon": {
+                    "S": ""
+                  },
+                  "id": {
+                    "S": "4788f0e7-406f-4897-83ed-0ae192b244cb"
+                  },
+                  "index": {
+                    "N": "1"
+                  },
+                  "label": {
+                    "S": "Superficie immobile"
+                  },
+                  "numberValue": {
+                    "N": "162"
+                  },
+                  "template": {
+                    "S": "templateWithLabel"
+                  },
+                  "text": {
+                    "S": "162 m²"
+                  },
+                  "unit": {
+                    "S": "m²"
+                  },
+                  "value": {
+                    "N": "162"
+                  },
+                  "visible": {
+                    "BOOL": true
+                  }
+                }
+              },
+              {
+                "M": {
+                  "type": {
+                    "S": "rooms"
+                  },
+                  "formattedValue": {
+                    "S": "5"
+                  },
+                  "headerLabel": {
+                    "S": "LOCALI"
+                  },
+                  "icon": {
+                    "S": ""
+                  },
+                  "id": {
+                    "S": "ad7b3734-ac7c-44b2-8e66-ac5abece00cd"
+                  },
+                  "index": {
+                    "N": "2"
+                  },
+                  "label": {
+                    "S": "Numero locali"
+                  },
+                  "numberValue": {
+                    "N": "5"
+                  },
+                  "template": {
+                    "S": "templateWithLabel"
+                  },
+                  "text": {
+                    "S": "5"
+                  },
+                  "unit": {
+                    "S": ""
+                  },
+                  "value": {
+                    "N": "5"
+                  },
+                  "visible": {
+                    "BOOL": true
+                  }
+                }
+              }
+            ]
+          },
+          "id": {
+            "S": "438b51ed-1148-45a6-8be0-738e48ce2b31"
+          },
+          "images": {
+            "L": [
+              {
+                "M": {
+                  "imageType": {
+                    "S": "image"
+                  },
+                  "urls": {
+                    "M": {
+                      "large": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/01.jpg?d=1500x1000"
+                      },
+                      "medium": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/01.jpg?d=640x480"
+                      },
+                      "small": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/01.jpg?d=400x400"
+                      },
+                      "thumb": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/01.jpg?d=200x200"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "M": {
+                  "imageType": {
+                    "S": "image"
+                  },
+                  "urls": {
+                    "M": {
+                      "large": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/02.jpg?d=1500x1000"
+                      },
+                      "medium": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/02.jpg?d=640x480"
+                      },
+                      "small": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/02.jpg?d=400x400"
+                      },
+                      "thumb": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/02.jpg?d=200x200"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "M": {
+                  "imageType": {
+                    "S": "image"
+                  },
+                  "urls": {
+                    "M": {
+                      "large": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/03.jpg?d=1500x1000"
+                      },
+                      "medium": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/03.jpg?d=640x480"
+                      },
+                      "small": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/03.jpg?d=400x400"
+                      },
+                      "thumb": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/03.jpg?d=200x200"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "M": {
+                  "imageType": {
+                    "S": "image"
+                  },
+                  "urls": {
+                    "M": {
+                      "large": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/04.jpg?d=1500x1000"
+                      },
+                      "medium": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/04.jpg?d=640x480"
+                      },
+                      "small": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/04.jpg?d=400x400"
+                      },
+                      "thumb": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/04.jpg?d=200x200"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "M": {
+                  "imageType": {
+                    "S": "image"
+                  },
+                  "urls": {
+                    "M": {
+                      "large": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/05.jpg?d=1500x1000"
+                      },
+                      "medium": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/05.jpg?d=640x480"
+                      },
+                      "small": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/05.jpg?d=400x400"
+                      },
+                      "thumb": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/images/05.jpg?d=200x200"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "location": {
+            "M": {
+              "city": {
+                "S": "Napoli"
+              },
+              "cityId": {
+                "S": "e6e7bda6-2451-4c75-ad54-d93676f5da2c"
+              },
+              "plate": {
+                "S": "NA"
+              },
+              "province": {
+                "S": "Napoli"
+              },
+              "region": {
+                "S": "Campania"
+              }
+            }
+          },
+          "planimetries": {
+            "L": [
+              {
+                "M": {
+                  "alt": {
+                    "S": "Vista aerea"
+                  },
+                  "caption": {
+                    "S": "Vista aerea"
+                  },
+                  "imageType": {
+                    "S": "planimetry"
+                  },
+                  "title": {
+                    "S": "Vista aerea"
+                  },
+                  "urls": {
+                    "M": {
+                      "large": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/floors/31985/images/01.jpg?d=1500x1000"
+                      },
+                      "medium": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/floors/31985/images/01.jpg?d=640x480"
+                      },
+                      "small": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/floors/31985/images/01.jpg?d=400x400"
+                      },
+                      "thumb": {
+                        "S": "https://test-images.quimmo.it/auctions/16156/floors/31985/images/01.jpg?d=200x200"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "RGE": {
+            "M": {
+              "number": {
+                "S": "736"
+              },
+              "year": {
+                "S": "2017"
+              }
+            }
+          },
+          "saleReference": {
+            "M": {
+              "avatarUrl": {
+                "S": "https://test-images.quimmo.it/agents/397446.jpg"
+              },
+              "email": {
+                "S": "alessandro.venturi@abilio.com"
+              },
+              "internationalPrefix": {
+                "S": "0039"
+              },
+              "name": {
+                "S": "Alessandro"
+              },
+              "referenceType": {
+                "S": "REFERENTE_COMMERCIALE"
+              },
+              "surname": {
+                "S": "Venturi"
+              },
+              "telephone": {
+                "S": "3667646598"
+              }
+            }
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "ace_leasing_af"
+              }
+            ]
+          },
+          "title": {
+            "S": "Appartamento adibito a scuola di formazione"
+          },
+          "tribunal": {
+            "M": {
+              "id": {
+                "S": "d3f7e540-363c-4296-ae87-94315d5f8941"
+              },
+              "name": {
+                "S": "Tribunale di Napoli"
+              }
+            }
+          }
+        }
+      },
+      "participationDocuments": {
+        "L": []
+      },
+      "pointsOfInterest": {
+        "L": []
+      },
+      "procedureType": {
+        "S": "ESEC"
+      },
+      "sellingMode": {
+        "NULL": true
+      },
+      "serviceMode": {
+        "S": "RACCOLTA_OFFERTE_VINCOLANTI"
+      },
+      "serviceType": {
+        "S": "AF"
+      },
+      "status": {
+        "S": "USCITO_DAL_PORTAFOGLIO"
+      },
+      "urlOnRed": {
+        "NULL": true
+      }
+    }
+  },
+  "createdAt": {
+    "S": "2023-12-07T13:00:00.899Z"
+  },
+  "indexed": {
+    "N": "1"
+  },
+  "internalLinks": {
+    "L": [
+      {
+        "M": {
+          "group": {
+            "S": "category"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "top"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "location"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "top"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "zone"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "top"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "type"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "top"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "special"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "top"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "others"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "top"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "category"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "sidebar"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "location"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "sidebar"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "zone"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "sidebar"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "type"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "sidebar"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "special"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "sidebar"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "others"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "sidebar"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "category"
+          },
+          "links": {
+            "L": [
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/attici/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/indipendenti/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/loft/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/palazzine/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/pertinenze/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/residenze-epoca/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/rustici/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/ville/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/villette/napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              }
+            ]
+          },
+          "position": {
+            "S": "bottom"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "location"
+          },
+          "links": {
+            "L": [
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/napoli-provincia"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/napoli-provincia"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/campania"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              }
+            ]
+          },
+          "position": {
+            "S": "bottom"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "zone"
+          },
+          "links": {
+            "L": [
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/acerra-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/afragola-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/agerola-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/anacapri-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/arzano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/bacoli-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/barano-d-ischia-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/boscoreale-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/boscotrecase-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/brusciano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/caivano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/calvizzano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/camposano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/capri-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/carbonara-di-nola-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/cardito-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/casalnuovo-di-napoli-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/casamarciano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/casamicciola-terme-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/casandrino-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/casavatore-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/casola-di-napoli-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/casoria-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/castellammare-di-stabia-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/castello-di-cisterna-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/cercola-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/cicciano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/cimitile-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/comiziano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/crispano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/ercolano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/forio-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/frattamaggiore-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/frattaminore-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/giugliano-in-campania-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/gragnano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/grumo-nevano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/ischia-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/lacco-ameno-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/lettere-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/liveri-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/marano-di-napoli-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/mariglianella-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/marigliano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/massa-lubrense-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/massa-di-somma-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/melito-di-napoli-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/meta-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/monte-di-procida-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/mugnano-di-napoli-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/nola-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/ottaviano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/palma-campania-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/piano-di-sorrento-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/pimonte-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/poggiomarino-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/pollena-trocchia-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/pomigliano-d-arco-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/pompei-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/portici-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/pozzuoli-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/procida-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/qualiano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/quarto-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/roccarainola-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/san-gennaro-vesuviano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/san-giorgio-a-cremano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/san-giuseppe-vesuviano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/san-paolo-bel-sito-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/san-sebastiano-al-vesuvio-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/san-vitaliano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/sant-agnello-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/sant-anastasia-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/sant-antimo-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/sant-antonio-abate-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/santa-maria-la-carita-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/saviano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/scisciano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/serrara-fontana-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/somma-vesuviana-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/sorrento-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/striano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/terzigno-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/torre-annunziata-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/torre-del-greco-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/trecase-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/tufino-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/vico-equense-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/villaricca-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/visciano-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "url": {
+                    "S": "/vendita-immobili/case/appartamenti/volla-napoli"
+                  },
+                  "rel": {
+                    "S": "nofollow"
+                  },
+                  "title": {
+                    "S": "Pagina annuncio"
+                  }
+                }
+              }
+            ]
+          },
+          "position": {
+            "S": "bottom"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "type"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "bottom"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "special"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "bottom"
+          }
+        }
+      },
+      {
+        "M": {
+          "group": {
+            "S": "others"
+          },
+          "links": {
+            "L": []
+          },
+          "position": {
+            "S": "bottom"
+          }
+        }
+      }
+    ]
+  },
+  "seo": {
+    "M": {
+      "dataLayer": {
+        "S": "{\"macroCategoria\":\"vendita-immobili\",\"microCategoria\":\"case\",\"nanoCategoria\":\"appartamenti\",\"regione\":\"campania\",\"provincia\":\"napoli-provincia\",\"comune\":\"napoli\"}"
+      },
+      "extratext": {
+        "S": ""
+      },
+      "metaInfo": {
+        "M": {
+          "link": {
+            "L": [
+              {
+                "M": {
+                  "hid": {
+                    "S": "canonical"
+                  },
+                  "href": {
+                    "S": "https://test.quimmo.it/annunci-immobili/appartamenti-napoli-16156"
+                  },
+                  "rel": {
+                    "S": "canonical"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "hid": {
+                    "S": "alternate"
+                  },
+                  "href": {
+                    "S": "https://test.quimmo.it/annunci-immobili/appartamenti-napoli-16156"
+                  },
+                  "hreflang": {
+                    "S": "it-it"
+                  },
+                  "rel": {
+                    "S": "alternate"
+                  }
+                }
+              }
+            ]
+          },
+          "meta": {
+            "L": [
+              {
+                "M": {
+                  "content": {
+                    "S": "Tipologia: Appartamenti. Posizione: Napoli (NA). Metratura: 162 m². Compra in modo semplice, veloce e sicuro su Quimmo."
+                  },
+                  "hid": {
+                    "S": "description"
+                  },
+                  "name": {
+                    "S": "description"
+                  },
+                  "property": {
+                    "S": "description"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "INDEX,FOLLOW"
+                  },
+                  "hid": {
+                    "S": "robots"
+                  },
+                  "name": {
+                    "S": "robots"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "Appartamento adibito a scuola di formazione"
+                  },
+                  "hid": {
+                    "S": "og:title"
+                  },
+                  "property": {
+                    "S": "og:title"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "Tipologia: Appartamenti. Posizione: Napoli (NA). Metratura: 162 m². Compra in modo semplice, veloce e sicuro su Quimmo."
+                  },
+                  "hid": {
+                    "S": "og:description"
+                  },
+                  "property": {
+                    "S": "og:description"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "website"
+                  },
+                  "hid": {
+                    "S": "og:type"
+                  },
+                  "property": {
+                    "S": "og:type"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "it_IT"
+                  },
+                  "hid": {
+                    "S": "og:locale"
+                  },
+                  "property": {
+                    "S": "og:locale"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "Quimmo"
+                  },
+                  "hid": {
+                    "S": "og:site_name"
+                  },
+                  "property": {
+                    "S": "og:site_name"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "https://test-images.quimmo.it/auctions/16156/images/01.jpg?d=1500x1000"
+                  },
+                  "hid": {
+                    "S": "og:image"
+                  },
+                  "property": {
+                    "S": "og:image"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "https://test.quimmo.it/annunci-immobili/appartamenti-napoli-16156"
+                  },
+                  "hid": {
+                    "S": "og:url"
+                  },
+                  "property": {
+                    "S": "og:url"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "Appartamento adibito a scuola di formazione"
+                  },
+                  "hid": {
+                    "S": "twitter:title"
+                  },
+                  "name": {
+                    "S": "twitter:title"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "Tipologia: Appartamenti. Posizione: Napoli (NA). Metratura: 162 m². Compra in modo semplice, veloce e sicuro su Quimmo."
+                  },
+                  "hid": {
+                    "S": "twitter:description"
+                  },
+                  "name": {
+                    "S": "twitter:description"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "summary_large_image"
+                  },
+                  "hid": {
+                    "S": "twitter:card"
+                  },
+                  "name": {
+                    "S": "twitter:card"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "@Quimmo"
+                  },
+                  "hid": {
+                    "S": "twitter:site"
+                  },
+                  "name": {
+                    "S": "twitter:site"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "@Quimmo"
+                  },
+                  "hid": {
+                    "S": "twitter:creator"
+                  },
+                  "name": {
+                    "S": "twitter:creator"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "https://test-images.quimmo.it/auctions/16156/images/01.jpg?d=1500x1000"
+                  },
+                  "hid": {
+                    "S": "twitter:image:src"
+                  },
+                  "name": {
+                    "S": "twitter:image:src"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "540527937381182"
+                  },
+                  "hid": {
+                    "S": "fb:app_id"
+                  },
+                  "name": {
+                    "S": "fb:app_id"
+                  }
+                }
+              },
+              {
+                "M": {
+                  "content": {
+                    "S": "no-referrer-when-downgrade"
+                  },
+                  "hid": {
+                    "S": "referrer"
+                  },
+                  "name": {
+                    "S": "referrer"
+                  }
+                }
+              }
+            ]
+          },
+          "title": {
+            "S": "Appartamento adibito a scuola di formazione a Napoli, Vendita 16156 - Quimmo"
+          }
+        }
+      },
+      "permalink": {
+        "S": "https://test.quimmo.it/annunci-immobili/appartamenti-napoli-16156"
+      }
+    }
+  },
+  "subtitle": {
+    "S": "Tribunale di Napoli<br>Esecuzione immobiliare Rge 736/2017<br><br>Proposta di vendita di: <br>Appartamento sito a Napoli (NA), in Piazza Vanvitelli n5. L’immobile posto al piano primo di un fabbricato di sei piani fuori terra, con servizio di portierato e ascensore, è un appartamento composto da quattro vani, di cui due soppalcati, oltre a una cucina e tre bagni.<br><br>Superficie commerciale: 162 mq <br><br>Piena proprietà di:<br>(CF): Foglio 15 - Particella 157 Subalterno 24 Categoria A2 <br><br>Per maggiori informazioni contattare il nostro Referente<br>"
+  },
+  "template": {
+    "S": "advertisement"
+  },
+  "title": {
+    "S": "Appartamento adibito a scuola di formazione"
+  },
+  "updatedAt": {
+    "S": "2023-12-07T13:00:00.899Z"
+  },
+  "uuid": {
+    "S": "369715ae-3428-49e8-996e-b51fa0ab7244"
+  }
+}
