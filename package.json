@@ -4,15 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc --build && node dist/index.js"
+    "start": "tsc --build && node dist/index.js",
+    "puppeteer": "tsc --build && node dist/puppeteer/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/ejs": "^3.1.5",
     "@types/pdfkit": "^0.13.3",
     "axios": "^1.6.5",
-    "pdfkit": "^0.14.0"
+    "ejs": "^3.1.9",
+    "pdfkit": "^0.14.0",
+    "puppeteer": "^21.7.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
