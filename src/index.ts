@@ -1,5 +1,5 @@
 import * as fs from "fs";
-import PDFDocument from "pdfkit";
+import PDFDocument, { circle, options } from "pdfkit";
 import * as announcement from "./source.json";
 import axios from "axios";
 
@@ -10,11 +10,19 @@ async function generate() {
     layout: "landscape",
   });
 
-  const logo = await fetchImage(
+  const image = await fetchImage(
     announcement.content.M.lot.M.images.L[0]?.M.urls.M.large.S
   );
 
-  doc.image(logo, 100, 200, {scale: 0.25});
+  // ===== HEADER
+
+  // Drawing horizontal line
+  doc.moveTo(20, 20).lineTo(820, 20).lineWidth(2).fillAndStroke("#006FDF");
+
+  // TODO: put logo & QR Code
+
+  // Drawing background image
+  doc.image(image, 20, 80, {width: 800, height: 450});
 
   doc.pipe(fs.createWriteStream("./file.pdf")); // write to PDF
 
