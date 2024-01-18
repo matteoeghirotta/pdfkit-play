@@ -1,6 +1,5 @@
-const { cover } = require("./cover");
-const fs = require("fs");
-const PDFDocument = require("pdfkit");
+import PDFDocument from "pdfkit";
+import * as fs from "fs";
 
 const doc = new PDFDocument({
   size: "A4",
@@ -11,7 +10,7 @@ const doc = new PDFDocument({
 doc.pipe(fs.createWriteStream("./file.pdf")); // write to PDF
 
 // add stuff to PDF here using methods described below...
-doc.addPage(cover);
+doc.addPage({ layout: "landscape" });
 
 // finalize the PDF and end the stream
 doc.end();
