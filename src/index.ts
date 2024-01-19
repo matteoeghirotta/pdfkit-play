@@ -11,10 +11,10 @@ async function generate() {
   });
 
   const image = await fetchImage(
-    announcement.content.M.lot.M.images.L[0]?.M.urls.M.large.S
+    announcement.content.lot.images[0].urls.large
   );
 
-  const title = announcement.title.S;
+  const title = announcement.title;
 
   // ===== HEADER
 
