@@ -15,10 +15,8 @@ export function renderGenericInfo(
   height: number
 ) {
 
-  const textStartingX = originX + 20;
+  let textStartingX = originX;
   const iconDim = 15;
-  doc.x = textStartingX;
-  doc.y = originY + 20;
 
   if (renderBackground) {
     doc
@@ -26,9 +24,14 @@ export function renderGenericInfo(
       .fillOpacity(0.8)
       .fillAndStroke("#ebedf0")
       .restore();
+  
+      textStartingX += 10;
   }
 
+    doc.x = textStartingX;
+
   // Title
+  doc.y = originY + 20;
   doc
     .fillColor("black")
     .font("Helvetica-Bold")
@@ -38,62 +41,58 @@ export function renderGenericInfo(
     })
     .restore();
 
-  doc.fontSize(12).text("\n");
-
   // Price
+  doc.y += 10;
   doc
     .fillColor(BLUE_QUIMMO)
     .fontSize(26)
     .text(`${announcement.price.toLocaleString("it-IT")} €`)
     .restore();
 
-  doc.fontSize(12).text("\n");
-
+  doc.y += 10;
   var textXOffset = 20;
   var textYOffset = 2;
-  var x = doc.x;
-  var y = doc.y;
+  var rowX = doc.x;
+  var rowY = doc.y;
+  var columnWidth = 80;
 
   // ===== Detail Row =====
-  var columnWidth = 80;
   doc.fillColor(GREY).fontSize(14);
-
   // first column
   doc.image(`${__dirname}/../resources/smile.png`, {
     width: iconDim,
     height: iconDim,
   });
-  doc.text(announcement.squareFootageText, x + textXOffset, y + textYOffset);
+  doc.text(announcement.squareFootageText, rowX + textXOffset, rowY + textYOffset);
 
   // second column
-  x += columnWidth;
-  doc.image(`${__dirname}/../resources/smile.png`, x, y, {
+  rowX += columnWidth;
+  doc.image(`${__dirname}/../resources/smile.png`, rowX, rowY, {
     width: iconDim,
     height: iconDim,
   });
-  doc.text(announcement.roomsNumberText, x + textXOffset, y + textYOffset);
+  doc.text(announcement.roomsNumberText, rowX + textXOffset, rowY + textYOffset);
 
   // third column
-  x += columnWidth;
-  doc.image(`${__dirname}/../resources/smile.png`, x, y, {
+  rowX += columnWidth;
+  doc.image(`${__dirname}/../resources/smile.png`, rowX, rowY, {
     width: iconDim,
     height: iconDim,
   });
-  doc.text("2 bagni", x + textXOffset, y + textYOffset);
+  doc.text("2 bagni", rowX + textXOffset, rowY + textYOffset);
 
-  doc.text("\n");
-
-  // ===== Detail Row =====
+  // ===== Address Row =====
+  doc.y += 10;
   doc.x = textStartingX; // reset doc x
-  x = textStartingX;
-  y = doc.y;
+  rowX = textStartingX;
+  rowY = doc.y;
 
   doc.image(`${__dirname}/../resources/smile.png`, {
     width: iconDim,
     height: iconDim,
   });
 
-  doc.text(`${announcement.city} (${announcement.province})`, x + textXOffset, y + textYOffset, {
+  doc.text(`${announcement.city} (${announcement.province})`, rowX + textXOffset, rowY + textYOffset, {
     lineBreak: false,
   });
 

@@ -8,7 +8,7 @@ async function generate() {
   const doc = new PDFDocument({
     size: "A4",
     font: "Courier",
-    layout: "landscape",
+    layout: "landscape"
   });
 
   const announcement = await fetchAnnouncement();

@@ -1,6 +1,7 @@
 import { Announcement } from "../announcementLoader";
 import { renderGenericInfo, renderHeader } from "./pdfComponents";
-import { fetchImage } from "../http";
+import { fetchImage } from "../helpers/http";
+import { MARGIN_LEFT } from "../consts";
 
 export async function renderCoverPage(doc: PDFKit.PDFDocument, announcement: Announcement) 
 {
@@ -15,5 +16,5 @@ export async function renderCoverPage(doc: PDFKit.PDFDocument, announcement: Ann
     height: 450,
   });
 
-    renderGenericInfo(doc, announcement, 30, 100, true, 400, 200);
+    renderGenericInfo(doc, announcement, MARGIN_LEFT, 100, true, 400, 180);
 }

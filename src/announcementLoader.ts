@@ -1,3 +1,4 @@
+import { htmlToPlainText } from "./helpers/text";
 import * as announcement from "./source.json";
 
 
@@ -15,16 +16,18 @@ export async function fetchAnnouncement(): Promise<Announcement> {
     province: announcement.content.lot.location.province,
     address: "Via delle dolomiti 126",
     //address: announcement.content.lot.location.address,
+    description: htmlToPlainText(announcement.content.lot.description),
   };
 }
 
 export type Announcement = {
-  title: string;
-  price: number;
-  backgroundImageUrl: any;
-  squareFootageText: string;
-  roomsNumberText: string;
-  city: string;
-  province: string;
   address: string | undefined;
-}
+  backgroundImageUrl: any;
+  city: string;
+  description: string;
+  price: number;
+  province: string;
+  roomsNumberText: string;
+  squareFootageText: string;
+  title: string;
+};
