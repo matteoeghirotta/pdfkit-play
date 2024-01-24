@@ -192,7 +192,7 @@
         },
         {
           "type": "bathrooms",
-          "formattedValue": "2",
+          "formattedValue": "1",
           "headerLabel": "BAGNI",
           "icon": "",
           "id": "7f1eac8f-6cdf-4c47-ac7f-463d18d14d4e",
@@ -204,6 +204,9 @@
           "unit": "",
           "value": 2,
           "visible": true
+        },
+        {
+          "label": "Predisposizione per carroponte"
         },
         {
           "type": "commonGarden",

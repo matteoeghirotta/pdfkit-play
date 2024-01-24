@@ -1,6 +1,6 @@
 import * as fs from "fs";
 import PDFDocument from "pdfkit";
-import { fetchAnnouncement } from "./announcementLoader";
+import { fetchAdvertisement } from "./announcementLoader";
 import { renderCoverPage } from "./pages/coverPage";
 import { renderDetailPage } from "./pages/detailPage";
 
@@ -11,7 +11,7 @@ async function generate() {
     layout: "landscape"
   });
 
-  const announcement = await fetchAnnouncement();
+  const announcement = await fetchAdvertisement();
 
   // Render pages
   await renderCoverPage(doc, announcement);
