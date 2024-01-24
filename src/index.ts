@@ -15,7 +15,7 @@ async function generate() {
 
   // Render pages
   await renderCoverPage(doc, announcement);
-  renderDetailPage(doc, announcement);
+  await renderDetailPage(doc, announcement);
 
   doc.pipe(fs.createWriteStream("./file.pdf")); // write to PDF
 

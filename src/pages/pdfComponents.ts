@@ -26,12 +26,12 @@ export function renderGenericInfo(
       .restore();
   
       textStartingX += 10;
+      doc.y = originY + 20;
   }
 
     doc.x = textStartingX;
 
   // Title
-  doc.y = originY + 20;
   doc
     .fillColor("black")
     .font("Helvetica-Bold")

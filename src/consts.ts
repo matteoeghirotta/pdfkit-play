@@ -1,6 +1,8 @@
 export const BLUE_QUIMMO = "#006FDF";
 export const GREY = "#7a7b7d";
-export const MARGIN_LEFT = 40;
+export const MARGIN_LEFT = 20;
+export const MARGIN_TOP = 80;
+export const IMAGE_ROUNDING = 15;
 
 // Mapping secondary feature <-> icon feature
 export const featureIconMapping = new Map<string, string>([
